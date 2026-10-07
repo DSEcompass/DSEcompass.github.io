@@ -2,4 +2,4 @@
 
 ## Learn. Think. Analyse. Invest Wisely.
 
-This knowledge bank is a record of the journey of a regular Bangladeshi investor towards becoming a better investor and a lifelong student of the stock market. It is expected to help new investors to learn alongside.
+This knowledge bank is expected to help new investors to learn alongside me about investing safely in DSE. **Knowledge is power** and we want to protect our investment and grow with better Knowledge
