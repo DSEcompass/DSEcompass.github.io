@@ -1,12 +1,12 @@
 ---
-Layout: default
+layout: default
 
-Title: Disclaimer
+title: Disclaimer
 
-Permalink: /disclaimer/
+permalink: /disclaimer/
 ---
 
-**Disclaimer**
+# Disclaimer
 
 **Educational purpose only.** Everything on this site is shared for education and general information. Nothing here is investment, financial, legal or tax advice, and nothing is an offer or a recommendation to buy, sell or hold any security.
 
