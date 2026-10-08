@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-[Home](/) | [About](about.html) | [Disclaimer](disclaimer.html)
+[Home](/) | [About](/about/) | [Disclaimer](/disclaimer/)
 
 ## Learn. Think. Analyse. Invest Wisely.
 
