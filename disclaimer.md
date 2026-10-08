@@ -1,11 +1,10 @@
-Layout
-default
+---
+Layout: default
 
-Title
-Disclaimer
+Title: Disclaimer
 
-Permalink
-/disclaimer/
+Permalink: /disclaimer/
+---
 
 **Disclaimer**
 
